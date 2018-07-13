@@ -13,7 +13,7 @@ To get started, generate a public/private keypair using the button at the top,
 and follow the instructions from there.
 
 The source code for this app is in the public domain, and can be accessed on
-[GitHub](https://github.com/brandis-project/brandis). We recommended that you
+[GitHub](https://github.com/JefterRocha/brandis). We recommended that you
 download this page to your computer and use it offline. If you're a programmer,
 you can inspect the source code to check for backdoors.
 
