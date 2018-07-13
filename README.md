@@ -5,7 +5,7 @@ Try it online: [Brandis](https://jefterrocha.github.io/brandis/)
 This app is intended to illustrate the ease with which secure, end-to-end
 encryption can be achieved in modern web browsers, using only a small amount of
 JavaScript code.  Brandis does not implement encryption itself; instead, it
-relies on the 
+relies on the [Web Cryptography API](https://www.w3.org/TR/WebCryptoAPI/)
 provided by your browser, and simply exposes a user interface to this API that
 enables its use by non-programmers.
 
